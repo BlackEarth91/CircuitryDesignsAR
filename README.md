@@ -4,6 +4,8 @@ CircuitryDesignsAR application is developed with the use of open-source tracking
 #Feature recognized
 
 # Samples
+![](Sample.jpg)
+
 
 
 # Tools and Usage
