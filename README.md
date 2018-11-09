@@ -6,8 +6,6 @@ CircuitryDesignsAR application is developed with the use of open-source tracking
 # Samples
 ![](Sample.jpg)
 
-
-
 # Tools and Usage
 * The project utilizes the ARToolKit open source library provided from [ARToolKit](https://github.com/artoolkit) 
 *  Import the Unity Package with [Unity](https://unity3d.com)
@@ -31,4 +29,4 @@ CalculateVoltage.java
     }
 
 # Limitations
-
+Depending on the refresh rate of the camera and the lighting environment, jitter rates must be adjusted within ARToolKit to compensate on the sensitivity for the feature detection capability.
